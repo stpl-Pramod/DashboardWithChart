@@ -1,0 +1,5 @@
+@import url(../home/home.component.css);
+#chart {
+    max-width: 650px;
+    margin: 35px auto;
+  }
